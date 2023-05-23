@@ -11,7 +11,7 @@ Before running the code, ensure you have the following:
 3. API Access: Obtain access to the social media API to retrieve relevant posts and data.
 
 ## Setup
-1. Clone the project repository from the GitHub repository [link here](https://github.com/your_username/your_repository).
+1. Clone the project repository from the GitHub repository.
 2. Set up the necessary libraries and dependencies by installing them using pip or any package manager of your choice.
 3. Replace the placeholder values in the code with your API access credentials and other relevant details.
 
